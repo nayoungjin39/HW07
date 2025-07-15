@@ -1,0 +1,40 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/hello_world/unreal project/SpartaProject/Content/Resources/Maps/mainmap.umap",
+				"C:/hello_world/unreal project/SpartaProject/Content/Resources/Maps/mainLevel.umap",
+				"C:/hello_world/unreal project/SpartaProject/Content/Resources/Materials/M_Ground_Moss.uasset",
+				"C:/hello_world/unreal project/SpartaProject/Content/Blueprints/BP_Item.uasset",
+				"C:/hello_world/unreal project/SpartaProject/Content/Blueprints/BP_SpartaCharacter.uasset",
+				"C:/hello_world/unreal project/SpartaProject/Content/Blueprints/BP_MySpartaGameMode.uasset",
+				"C:/hello_world/unreal project/SpartaProject/Content/Blueprints/BP_SpartaPlayerController.uasset",
+				"C:/hello_world/unreal project/SpartaProject/Content/Inputs/IA_Move.uasset",
+				"C:/hello_world/unreal project/SpartaProject/Content/Inputs/IA_Jump.uasset",
+				"C:/hello_world/unreal project/SpartaProject/Content/Inputs/IA_Sprint.uasset",
+				"C:/hello_world/unreal project/SpartaProject/Content/Inputs/IA_Look.uasset",
+				"C:/hello_world/unreal project/SpartaProject/Content/Inputs/IMC_Chatacter.uasset",
+				"C:/hello_world/unreal project/SpartaProject/Content/Blueprints/ABP_Sparta.uasset",
+				"C:/hello_world/unreal project/SpartaProject/Content/Resources/Characters/Animations/Manny/BS_MM_WalkRun.uasset",
+				"C:/hello_world/unreal project/SpartaProject/Content/Blueprints/BP_BigCoinItem.uasset",
+				"C:/hello_world/unreal project/SpartaProject/Content/Blueprints/BP_HealingItem.uasset",
+				"C:/hello_world/unreal project/SpartaProject/Content/Blueprints/BP_MineItem.uasset",
+				"C:/hello_world/unreal project/SpartaProject/Content/Blueprints/BP_SmallCoinItem.uasset",
+				"C:/hello_world/git/git/HW07/SpartaProject/Content/Blueprints/BP_BigCoinItem.uasset",
+				"C:/hello_world/git/git/HW07/SpartaProject/Content/Blueprints/BP_HealingItem.uasset",
+				"C:/hello_world/git/git/HW07/SpartaProject/Content/Blueprints/BP_Item.uasset",
+				"C:/hello_world/git/git/HW07/SpartaProject/Content/Blueprints/BP_MineItem.uasset",
+				"C:/hello_world/git/git/HW07/SpartaProject/Content/Blueprints/BP_SmallCoinItem.uasset",
+				"C:/hello_world/unreal project/SpartaProject/Content/BP_BigCoinItem.uasset",
+				"C:/hello_world/unreal project/SpartaProject/Content/BP_HealingItem.uasset",
+				"C:/hello_world/unreal project/SpartaProject/Content/BP_MineItem.uasset",
+				"C:/hello_world/unreal project/SpartaProject/Content/BP_SmallCoinItem.uasset",
+				"C:/hello_world/unreal project/SpartaProject/Content/Blueprints/BP_StartaGameMode.uasset",
+				"C:/hello_world/unreal project/SpartaProject/Content/NewBlueprint.uasset"
+			]
+		}
+	]
+}

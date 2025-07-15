@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\SpartaProject.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\SpartaProject.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\SpartaProjectEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\.vsconfig" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\SpartaProject">
+      <UniqueIdentifier>{975289DE-AA7C-3F12-A58F-4E4DFA15583C}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\SpartaProject\SpartaProject.Build.cs">
+      <Filter>Source\SpartaProject</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\SpartaProject\SpartaProject.cpp">
+      <Filter>Source\SpartaProject</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\SpartaProject\SpartaProject.h">
+      <Filter>Source\SpartaProject</Filter>
+    </ClCompile>
+    <Filter Include="Source\SpartaProject\Private">
+      <UniqueIdentifier>{28D321F0-9271-3957-A694-3A03882D6A9B}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\SpartaProject\Private\SpartaCharacter.cpp">
+      <Filter>Source\SpartaProject\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\SpartaProject\Private\SpartaPlayerController.cpp">
+      <Filter>Source\SpartaProject\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\SpartaProject\Private\StartaGameMode.cpp">
+      <Filter>Source\SpartaProject\Private</Filter>
+    </ClCompile>
+    <Filter Include="Source\SpartaProject\Public">
+      <UniqueIdentifier>{B8845FCF-8727-3340-A8DD-89B23119D34F}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\SpartaProject\Public\SpartaCharacter.h">
+      <Filter>Source\SpartaProject\Public</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\SpartaProject\Public\SpartaPlayerController.h">
+      <Filter>Source\SpartaProject\Public</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\SpartaProject\Public\StartaGameMode.h">
+      <Filter>Source\SpartaProject\Public</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
